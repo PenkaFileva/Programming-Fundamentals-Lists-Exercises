@@ -1,0 +1,6 @@
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\06Sum Reversed Numbers\bin\Debug\06Sum Reversed Numbers.exe.config
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\06Sum Reversed Numbers\bin\Debug\06Sum Reversed Numbers.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\06Sum Reversed Numbers\bin\Debug\06Sum Reversed Numbers.pdb
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\06Sum Reversed Numbers\obj\Debug\06Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\06Sum Reversed Numbers\obj\Debug\06Sum Reversed Numbers.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\06Sum Reversed Numbers\obj\Debug\06Sum Reversed Numbers.pdb

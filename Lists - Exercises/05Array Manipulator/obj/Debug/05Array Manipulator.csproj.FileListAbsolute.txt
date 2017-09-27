@@ -1,0 +1,6 @@
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\05Array Manipulator\bin\Debug\05Array Manipulator.exe.config
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\05Array Manipulator\bin\Debug\05Array Manipulator.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\05Array Manipulator\bin\Debug\05Array Manipulator.pdb
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\05Array Manipulator\obj\Debug\05Array Manipulator.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\05Array Manipulator\obj\Debug\05Array Manipulator.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\05Array Manipulator\obj\Debug\05Array Manipulator.pdb

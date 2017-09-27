@@ -1,0 +1,6 @@
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\01Max Sequence of Equal Elements\bin\Debug\01Max Sequence of Equal Elements.exe.config
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\01Max Sequence of Equal Elements\bin\Debug\01Max Sequence of Equal Elements.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\01Max Sequence of Equal Elements\bin\Debug\01Max Sequence of Equal Elements.pdb
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\01Max Sequence of Equal Elements\obj\Debug\01Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\01Max Sequence of Equal Elements\obj\Debug\01Max Sequence of Equal Elements.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\01Max Sequence of Equal Elements\obj\Debug\01Max Sequence of Equal Elements.pdb

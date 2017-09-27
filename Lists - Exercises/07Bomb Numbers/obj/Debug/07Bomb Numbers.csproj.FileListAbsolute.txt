@@ -1,0 +1,6 @@
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\07Bomb Numbers\bin\Debug\07Bomb Numbers.exe.config
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\07Bomb Numbers\bin\Debug\07Bomb Numbers.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\07Bomb Numbers\bin\Debug\07Bomb Numbers.pdb
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\07Bomb Numbers\obj\Debug\07Bomb Numbers.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\07Bomb Numbers\obj\Debug\07Bomb Numbers.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\07Bomb Numbers\obj\Debug\07Bomb Numbers.pdb

@@ -1,0 +1,6 @@
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\02Change List\bin\Debug\02Change List.exe.config
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\02Change List\bin\Debug\02Change List.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\02Change List\bin\Debug\02Change List.pdb
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\02Change List\obj\Debug\02Change List.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\02Change List\obj\Debug\02Change List.exe
+D:\Programming Fundamentals - Extended\Projects - Tech Module\Lists - Exercises\02Change List\obj\Debug\02Change List.pdb
